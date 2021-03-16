@@ -1,6 +1,8 @@
 // Helper functions for music
 
 #include "cs50.h"
+#include <math.h>
+#include <string.h>
 
 #include "helpers.h"
 

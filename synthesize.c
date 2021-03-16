@@ -1,6 +1,6 @@
 // Prompts user for a sequence of notes with which to synthesize a song
 
-#include <cs50.h>
+#include "cs50.h"
 #include <stdio.h>
 #include <string.h>
 
