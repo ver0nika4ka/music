@@ -1,5 +1,5 @@
 CC ?= clang
-CFLAGS ?= -fsanitize=integer -fsanitize=undefined -O0 -std=c11 -Wall -Werror -Wextra -Wno-sign-compare -Wshadow
+CFLAGS ?= -O0 -std=c11 -Wall -Wextra -Wno-sign-compare -Wshadow
 LDLIBS ?= -lm
 
 .PHONY: all
